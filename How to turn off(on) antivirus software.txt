@@ -1,0 +1,11 @@
+Way 1. Through Windows Security Settings
+
+- Press Windows + I to open Windows Settings.
+- Click Update & Security -> Windows Security -> Virus & threat protection.
+- Locate “Virus & threat protection settings” section in the right window, and click Manage settings.
+- Turn off the “Real-time protection if off, leaving your device vulnerable” option.
+
+In this way, you can temporarily disable antivirus on Windows 10. If you want to enable the real-time antivirus protection again, you can restart your computer or follow the same operation above to turn on the option.
+
+How to Disable Antivirus on Windows 10 Temporarily:
+https://www.minitool.com/news/how-to-disable-antivirus-win-10.html
