@@ -1,6 +1,8 @@
 ## How to Setup and other detail
 [Image Processing Environment for iPBL](https://github.com/ipbl-oit-siit/portal/blob/main/setup/python%2Bvscode.md#details-of-the-installed-environment)
 
+Note:  MediaPipe or other libraries may not be supported with the latest version of Python
+
 #### Details of the installed environment
 - Python3.10.11.amd64 (WPy64-310111)
   - dlib 19.24.2
